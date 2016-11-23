@@ -146,6 +146,11 @@
 ![142][142]  
 ![143][143]  
 ![144][144]  
+![145][145]  
+![146][146]  
+![147][147]  
+![148][148]  
+![149][149]  
 
 [000]: https://github.com/Blankj/doge-expression/blob/master/expression/000.gif
 [001]: https://github.com/Blankj/doge-expression/blob/master/expression/001.gif
@@ -292,4 +297,9 @@
 [142]: https://github.com/Blankj/doge-expression/blob/master/expression/142.gif
 [143]: https://github.com/Blankj/doge-expression/blob/master/expression/143.gif
 [144]: https://github.com/Blankj/doge-expression/blob/master/expression/144.gif
+[145]: https://github.com/Blankj/doge-expression/blob/master/expression/145.jpg
+[146]: https://github.com/Blankj/doge-expression/blob/master/expression/146.jpg
+[147]: https://github.com/Blankj/doge-expression/blob/master/expression/147.jpg
+[148]: https://github.com/Blankj/doge-expression/blob/master/expression/148.jpg
+[149]: https://github.com/Blankj/doge-expression/blob/master/expression/149.gif
 [eif]: https://github.com/Blankj/doge-expression/blob/master/doge-expression.eif
