@@ -1,4 +1,4 @@
-卡通doge的表情大集合，喜爱doge的朋友的福利到了，花了很多的时间整理出来的狗东西，就被你们这么轻而易举地拿走了，现附上QQ表情包链接[doge-expression.eif](https://github.com/Blankj/doge-expression/blob/master/doge-expression.eif)（进去点击Download即可）
+卡通doge的表情大集合，喜爱doge的朋友的福利到了，花了很多的时间整理出来的狗东西，就被你们这么轻而易举地拿走了，现附上QQ表情包链接[doge-expression.eif](https://raw.githubusercontent.com/Blankj/doge-expression/master/doge-expression.eif)（进去点击Download即可）
 
 下面展示doge各种姿势，请系好安全带，开车啦，滴滴滴~~
 
@@ -329,12 +329,14 @@
 ![638.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/638.gif)  
 ![639.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/639.gif)  
 ![640.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/640.gif)  
-![641.png](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/641.png)  
+![641.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/641.gif)  
 ![642.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/642.gif)  
 ![643.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/643.gif)  
 ![644.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/644.gif)  
 ![645.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/645.gif)  
 ![646.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/646.gif)  
+![647.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/647.gif)  
+![648.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/648.gif)  
 ![700.jpg](https://github.com/Blankj/doge-expression/raw/master/_11_700_799_OtherJpg/700.jpg)  
 ![701.jpg](https://github.com/Blankj/doge-expression/raw/master/_11_700_799_OtherJpg/701.jpg)  
 ![702.jpg](https://github.com/Blankj/doge-expression/raw/master/_11_700_799_OtherJpg/702.jpg)  
