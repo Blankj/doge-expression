@@ -337,6 +337,7 @@
 ![646.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/646.gif)  
 ![647.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/647.gif)  
 ![648.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/648.gif)  
+![649.gif](https://github.com/Blankj/doge-expression/raw/master/_10_600_699_OtherGif/649.gif)  
 ![700.jpg](https://github.com/Blankj/doge-expression/raw/master/_11_700_799_OtherJpg/700.jpg)  
 ![701.jpg](https://github.com/Blankj/doge-expression/raw/master/_11_700_799_OtherJpg/701.jpg)  
 ![702.jpg](https://github.com/Blankj/doge-expression/raw/master/_11_700_799_OtherJpg/702.jpg)  
